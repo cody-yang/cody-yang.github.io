@@ -4,8 +4,3 @@
 
 layout: home
 ---
-
-# Welcome to Cody's blog!
-
-This site is under construction.
-Please come back later :)
